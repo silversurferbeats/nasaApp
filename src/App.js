@@ -5,7 +5,6 @@ import NasaPhoto from "./components/NasaPhoto";
 
 import './App.css';
 
-//import peticion from '../src/service'
 
 const cors = require('cors');  
 
