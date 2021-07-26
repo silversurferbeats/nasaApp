@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nasaApp/static/css/main.00a22a5f.chunk.css",
+    "main.js": "/nasaApp/static/js/main.998f54fb.chunk.js",
+    "main.js.map": "/nasaApp/static/js/main.998f54fb.chunk.js.map",
+    "runtime-main.js": "/nasaApp/static/js/runtime-main.29f6bac4.js",
+    "runtime-main.js.map": "/nasaApp/static/js/runtime-main.29f6bac4.js.map",
+    "static/js/2.1fe8941a.chunk.js": "/nasaApp/static/js/2.1fe8941a.chunk.js",
+    "static/js/2.1fe8941a.chunk.js.map": "/nasaApp/static/js/2.1fe8941a.chunk.js.map",
+    "static/js/3.f608956a.chunk.js": "/nasaApp/static/js/3.f608956a.chunk.js",
+    "static/js/3.f608956a.chunk.js.map": "/nasaApp/static/js/3.f608956a.chunk.js.map",
+    "index.html": "/nasaApp/index.html",
+    "static/css/main.00a22a5f.chunk.css.map": "/nasaApp/static/css/main.00a22a5f.chunk.css.map",
+    "static/js/2.1fe8941a.chunk.js.LICENSE.txt": "/nasaApp/static/js/2.1fe8941a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29f6bac4.js",
+    "static/js/2.1fe8941a.chunk.js",
+    "static/css/main.00a22a5f.chunk.css",
+    "static/js/main.998f54fb.chunk.js"
+  ]
+}
