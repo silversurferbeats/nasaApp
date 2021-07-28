@@ -5,16 +5,12 @@ import NasaPhoto from "./components/NasaPhoto";
 
 import './App.css';
 
-
-const cors = require('cors');  
-
-
-
 function App() {
   return (
     <BrowserRouter>
       <div className="app">
         <Route component={Home} path="/" exact />
+        <Route component={Home} path="/nasaApp" exact />
         <Route component={NasaPhoto} path="/nasaphoto" /> 
       </div>
     </BrowserRouter>

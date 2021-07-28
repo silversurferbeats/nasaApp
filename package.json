@@ -1,6 +1,6 @@
 {
   "homepage": "http://silversurferbeats.github.io/nasaApp",
-  "name": "wanted",
+  "name": "nasaApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

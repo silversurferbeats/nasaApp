@@ -2,7 +2,7 @@ import React from 'react';
 import { useEffect, useState } from 'react';
 import NavBar from './NavBar';
 
-const apiKey = process.env.REACT_APP_NASA_KEY;
+const apiKey = "QSKmEpqRocoWI4FQzuzl1CAdnNokT04JTpEaaUl5"; // process.env.REACT_APP_NASA_KEY;
 
 export default function NasaPhoto() {
     
